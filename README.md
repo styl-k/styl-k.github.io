@@ -1,4 +1,4 @@
 # Personal webiste via Github pages
 
 ### styl-k.github.io
-##### (Copy/paste this ^ link to access it )
+##### (This website has been created as per exercise 1 of https://progintro.github.io/assets/pdf/hw0.pdf and so it is not really a personal page beyond the limitations of the next excercises)
